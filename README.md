@@ -12,24 +12,6 @@
     - [Competitive Programming & Interview Preperation](#competitive-programming-and-interview-preparation)
     - [Up and coming](#up-and-coming)
     - [Retired](#retired)
-    ### Non English
-    - [Russian](#russian)
-    - [Hindi](#hindi)
-    - [Turkish](#turkish)
-    - [Italian](#italian)
-    - [Bengali](#bengali)
-    - [Brazilian](#brazilian)
-    - [Korean](#korean)
-    - [Chinese](#chinese)
-    - [Hebrew](#hebrew)
-    - [French](#french)
-    - [Spanish](#spanish)
-    - [Indonesian](#indonesian)
-    - [Arabic](#arabic)
-    - [German](#german)
-    - [Polish](#polish)
-    - [Somali](#somali)
-
 
 
 # Resources
